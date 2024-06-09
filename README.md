@@ -1,4 +1,5 @@
 BLOCK-CHAIN 2024 PROJECT
+STRAW HATS COOKERY🧑‍🍳👩‍🍳 
 ## Description
 
 This project is a decentralized marketplace built on the Celo blockchain, allowing users to list and purchase products using cUSD. The marketplace leverages smart contracts for secure and transparent transactions.
