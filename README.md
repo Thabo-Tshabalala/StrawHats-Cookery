@@ -53,14 +53,6 @@ The project uses a smart contract deployed on the Celo network at the address `0
 - Approve the transaction from your Celo wallet.
 - Upon successful purchase, the product will be marked as sold.
 
-## Troubleshooting
-
-If you encounter any issues with the DApp, check the following:
-
-- Ensure that the Celo wallet extension is active and properly configured.
-- Check the browser console for errors related to network connections or transactions.
-- Ensure that the smart contract address and ABI are correctly configured in your project.
-
 ## Contributing
 
 Contributions to this project are welcome. Please fork the repository and submit a pull request with your features or fixes.
