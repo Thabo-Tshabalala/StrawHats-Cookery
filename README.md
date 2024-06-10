@@ -65,10 +65,6 @@ If you encounter any issues with the DApp, check the following:
 
 Contributions to this project are welcome. Please fork the repository and submit a pull request with your features or fixes.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Interacting with the live project 
 -Install the CeloExtensionWallet from the Google Chrome Store.
 Create a wallet.
