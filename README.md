@@ -40,7 +40,7 @@ To get started...
 
 ## Usage
 
-The project uses a smart contract deployed on the Celo network at the address `0x7E0efb852B65d4bD3856fdC250fed80523eDC329`. The smart contract allows for listing and purchasing products.
+The project uses a smart contract deployed on the Celo network at the address `0xBBF49937d51cE40C6F5BE9E43630695368e2f0f5`. The smart contract allows for listing and purchasing products.
 
 ### Adding a Product
 
