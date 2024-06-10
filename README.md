@@ -1,5 +1,6 @@
 BLOCK-CHAIN 2024 PROJECT
-STRAW HATS COOKERY🧑‍🍳👩‍🍳 
+STRAW HATS MarketPlace🧑‍🍳👩‍🍳 
+
 ## Description
 
 This project is a decentralized marketplace built on the Celo blockchain, allowing users to list and purchase products using cUSD. The marketplace leverages smart contracts for secure and transparent transactions.
@@ -14,14 +15,9 @@ This project is a decentralized marketplace built on the Celo blockchain, allowi
 
 ## Installation
 
-To get started with this project, follow these steps:
+To get started...
 
 1. **Clone the Repository**
-
-   ```bash
-   https://github.com/Thabo-Tshabalala/StrawHats-Cookery.git
-   change directory ..
-   ```
 
 2. **Pick your poison**
 
@@ -72,3 +68,11 @@ Contributions to this project are welcome. Please fork the repository and submit
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Interacting with the live project 
+-Install the CeloExtensionWallet from the Google Chrome Store.
+Create a wallet.
+Go to https://celo.org/developers/faucet and get some token for the alfajores testnet. (Untick the checkbox if "only Celo is ticked")
+Switch to the alfajores testnet in the CeloExtensionWallet.
+Go to https://thabo-tshabalala.github.io/StrawHats-Cookery/ and start adding or purchasing products.
+
