@@ -61,7 +61,10 @@ The project uses a smart contract deployed on the Celo network at the address `0
 
 Contributions to this project are welcome. Please fork the repository and submit a pull request with your features or fixes.
 
-##### Interacting with the live project  ![SoExcited~GIF](https://github.com/Thabo-Tshabalala/StrawHats-Cookery/assets/127661858/6a5a6059-1ff6-45cc-9eef-cad0dce8cb3d)
+ ![YesBabyGIF](https://github.com/Thabo-Tshabalala/StrawHats-Cookery/assets/127661858/86726a71-7f3e-48f0-ac98-d791b76772b9)
+
+
+##### Interacting with the live project 🔥
  
 -   Install the CeloExtensionWallet from the Google Chrome Store.
 -   Create a wallet.
