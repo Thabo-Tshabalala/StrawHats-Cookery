@@ -61,12 +61,14 @@ The project uses a smart contract deployed on the Celo network at the address `0
 
 Contributions to this project are welcome. Please fork the repository and submit a pull request with your features or fixes.
 
-## Interacting with the live project   
+##### Interacting with the live project  ![SoExcited~GIF](https://github.com/Thabo-Tshabalala/StrawHats-Cookery/assets/127661858/6a5a6059-1ff6-45cc-9eef-cad0dce8cb3d)
+ 
 -   Install the CeloExtensionWallet from the Google Chrome Store.
 -   Create a wallet.
--  Go to https://celo.org/developers/faucet and get some token for the alfajores testnet. 
-(Untick the checkbox if "only Celo is ticked")
--   Switch to the alfajores testnet in the CeloExtensionWallet.
+-    Switch to the alfajores testnet in the CeloExtensionWallet.
+-    Copy the address
+-  Go to https://celo.org/developers/faucet and paste your address to get tokens for the alfajores testnet. 
+(Untick the checkbox☑️ if "only Celo is ticked")
 -  Tip💁 :To test this DApp properly, you should create two accounts.
 This will allow you to see how the first account earns cUSD when you buy a product with the second account..
 -  Go to https://thabo-tshabalala.github.io/StrawHats-Cookery/ and start adding or purchasing products.
