@@ -19,7 +19,7 @@ To get started...
 
 1. **Clone the Repository**
 
-2. **Pick your poison**
+2. **Pick your poison 🤔**
 
    ```bash
    npm install
