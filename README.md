@@ -38,7 +38,7 @@ To get started...
    ```
 3.** Deployment 
 
--Open your Terminal : npm rub build 
+-Open your Terminal : npm run build 
   --This will create a folder named docs / dist . if named dist rename it to docs.
 -Follow the instructions here** https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
 
