@@ -63,9 +63,11 @@ Contributions to this project are welcome. Please fork the repository and submit
 
 ## Interacting with the live project   
 -Install the CeloExtensionWallet from the Google Chrome Store.
-Create a wallet.
-Go to https://celo.org/developers/faucet and get some token for the alfajores testnet. (Untick the checkbox if "only Celo is ticked")
-Switch to the alfajores testnet in the CeloExtensionWallet.
-Tip💁 :To test this DApp properly, you should create two accounts. This will allow you to see how the first account earns cUSD when you buy a product with the second account..vice versa.
-Go to https://thabo-tshabalala.github.io/StrawHats-Cookery/ and start adding or purchasing products.
+-Create a wallet.
+-Go to https://celo.org/developers/faucet and get some token for the alfajores testnet. 
+(Untick the checkbox if "only Celo is ticked")
+-Switch to the alfajores testnet in the CeloExtensionWallet.
+-Tip💁 :To test this DApp properly, you should create two accounts.
+This will allow you to see how the first account earns cUSD when you buy a product with the second account..
+-Go to https://thabo-tshabalala.github.io/StrawHats-Cookery/ and start adding or purchasing products.
 
